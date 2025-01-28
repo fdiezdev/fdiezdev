@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>My name is Francisco Diez, I'm a biomedical engineering undergraduate at Universidad Nacional de Córdoba, in Argentina.</p>
+<p>My name is Francisco Diez, I'm a biomedical engineering undergraduate at Universidad Nacional de Córdoba, Argentina 🇦🇷</p>
 <p>I was always passionate about software development, and ever since I started my studies in de medical field engineering, I became really interested in software development applied to medical pourposes and data science.</p>
 <p>That's why I started, parallel to my university studies, my own learning path with different online courses and books. Now I'm studiying C and Python with a data science approach.</p>
 <p>If you would like to contact me, feel free to contact me through my <a href='https://www.linkedin.com/in/fdiez1/'>LinkedIn account</a></p>
